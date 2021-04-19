@@ -5,9 +5,9 @@
 •	Created a location box that provides all the information related to each event and that can be accessed by clicking on the icon of the respective event
 
 •	This app uses the NASA Open API and the Google Maps API
-
+#
 Visit my project here - 
-
+#
 Technologies used: 
 
 < HTML, CSS, React />
